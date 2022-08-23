@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kashifishfaq
-- 👀 I’m interested in Full stack.
-- 🌱 I’m currently learning Laravel,JS,magento2
-- 💞️ I’m looking to collaborate on PHP
-- 📫 How to reach me kashifashfaq59@gmail.com
+👋 Hi, I’m @kashifishfaq
+- WordPress(Plugin/addon dev.)
+- PHP (Laravel)
+- Magento2
+- How to reach me kashifashfaq59@gmail.com
 
 <!---
 kashifishfaq/kashifishfaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
